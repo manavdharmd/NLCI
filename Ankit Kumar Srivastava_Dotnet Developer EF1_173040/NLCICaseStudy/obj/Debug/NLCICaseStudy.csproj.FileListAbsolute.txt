@@ -1,0 +1,115 @@
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\ApplicationInsights.config
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\csc.exe
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\System.Collections.Immutable.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\System.Reflection.Metadata.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\vbc.exe
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\VBCSCompiler.exe
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\roslyn\VBCSCompiler.exe.config
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\NLCICaseStudy.dll.config
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\NLCICaseStudy.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\NLCICaseStudy.pdb
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\EntityFramework.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\EntityFramework.SqlServer.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.Agent.Intercept.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.DependencyCollector.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.Web.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.WindowsServer.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.ApplicationInsights.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\EntityFramework.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\EntityFramework.SqlServer.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.DependencyCollector.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.Web.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.AI.WindowsServer.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.ApplicationInsights.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\obj\Debug\NLCICaseStudy.csprojResolveAssemblyReference.cache
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\obj\Debug\NLCICaseStudy.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\obj\Debug\NLCICaseStudy.pdb
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\JobDb.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\NLCICaseStudy\bin\JobDb.pdb
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\ApplicationInsights.config
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\csc.exe
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\vbc.exe
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\VBCSCompiler.exe
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\NLCICaseStudy.dll.config
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\NLCICaseStudy.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\NLCICaseStudy.pdb
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\EntityFramework.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\EntityFramework.SqlServer.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\JobDb.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.Web.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.ApplicationInsights.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\JobDb.pdb
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\EntityFramework.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\EntityFramework.SqlServer.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.Web.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.ApplicationInsights.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\obj\Debug\NLCICaseStudy.csprojResolveAssemblyReference.cache
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\obj\Debug\NLCICaseStudy.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\NLCICaseStudy\obj\Debug\NLCICaseStudy.pdb
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\obj\Debug\NLCICaseStudy.csprojResolveAssemblyReference.cache
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\obj\Debug\NLCICaseStudy.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\obj\Debug\NLCICaseStudy.pdb
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\ApplicationInsights.config
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\csc.exe
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\vbc.exe
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\VBCSCompiler.exe
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\NLCICaseStudy.dll.config
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\NLCICaseStudy.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\NLCICaseStudy.pdb
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\EntityFramework.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\EntityFramework.SqlServer.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.Web.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.ApplicationInsights.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\EntityFramework.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\EntityFramework.SqlServer.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.Web.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.ApplicationInsights.xml
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\NLCICaseStudy\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml

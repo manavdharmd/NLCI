@@ -1,0 +1,5 @@
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\Customer\bin\Debug\Customer.dacpac
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\Customer\bin\Debug\Customer.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\Customer\bin\Debug\Customer.pdb
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\Customer\obj\Debug\Customer.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\Customer\obj\Debug\Customer.pdb

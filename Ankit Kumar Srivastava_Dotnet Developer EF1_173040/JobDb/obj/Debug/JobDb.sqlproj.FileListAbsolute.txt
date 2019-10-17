@@ -1,0 +1,15 @@
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\JobDb\bin\Debug\JobDb.dacpac
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\JobDb\bin\Debug\JobDb.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\JobDb\bin\Debug\JobDb.pdb
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\JobDb\obj\Debug\JobDb.dll
+D:\My Notes\Certi\DOT NET\Grade6\Level 2\Advance Dotnet Developer Linq2\JobDb\JobDb\obj\Debug\JobDb.pdb
+C:\Users\157850\Desktop\New folder (3)\JobDb\JobDb\bin\Debug\JobDb.dacpac
+C:\Users\157850\Desktop\New folder (3)\JobDb\JobDb\bin\Debug\JobDb.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\JobDb\bin\Debug\JobDb.pdb
+C:\Users\157850\Desktop\New folder (3)\JobDb\JobDb\obj\Debug\JobDb.dll
+C:\Users\157850\Desktop\New folder (3)\JobDb\JobDb\obj\Debug\JobDb.pdb
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\JobDb\bin\Debug\JobDb.dacpac
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\JobDb\bin\Debug\JobDb.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\JobDb\bin\Debug\JobDb.pdb
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\JobDb\obj\Debug\JobDb.dll
+C:\Users\157850\Desktop\New folder (3)\Manav Dhar_Advance Dotnet Developer Linq2_157850\JobDb\obj\Debug\JobDb.pdb
